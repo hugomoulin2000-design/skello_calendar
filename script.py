@@ -4,7 +4,7 @@ from datetime import timedelta
 import os
 
 # Décalage horaire
-DECALAGE = timedelta(hours=-2)
+DECALAGE = timedelta(hours=0)
 
 # Dossier du script
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
